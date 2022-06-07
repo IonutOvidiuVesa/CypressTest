@@ -1,0 +1,13 @@
+{
+    "chromeWebSecurity": false,
+    "viewportWidth": 1280,
+    "viewportHeight": 720,
+
+    "acls": [
+        {
+          "principalType": "ROLE",
+          "principalId": "$everyone",
+          "permission": "ALLOW"
+        }
+    ]
+}

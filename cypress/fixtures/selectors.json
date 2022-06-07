@@ -1,0 +1,31 @@
+{
+    "userNameField": "[data-test =username]",
+    "passwordField": "[data-test =password]",
+    "loginButton": "#login-button",
+    "burgerMenu": "#react-burger-menu-btn",
+    "logoutButton": "#logout_sidebar_link",
+    "errorMessage": "[class='error-message-container error']",
+    "div": "div",
+    "form": "form",
+    "span": "span",
+    "inventoryList": "div.inventory_list",
+    "inventoryName": "[class='inventory_item_name']",
+    "shoppingCart": "#shopping_cart_container",
+    "cartList": "div.cart_list",
+    "itemPrice": "[class='inventory_item_price']",
+    "addToCart": "[class='btn btn_primary btn_small btn_inventory']",
+    "cartFooter": "div.cart_footer",
+    "checkoutButton": "[data-test='checkout']",
+    "checkoutInfo": "div.checkout_info",
+    "firstNameField": "[data-test='firstName']",
+    "lastNameField": "[data-test='lastName']",
+    "zipField": "[data-test='postalCode']",
+    "checkoutButtonSection": "div.checkout_buttons",
+    "continueButton": "[data-test='continue']",
+    "summaryInfoSection": "div.summary_info",
+    "summaryValue": "div.summary_value_label",
+    "summaryTax": "div.summary_tax_label",
+    "totalField": "div.summary_total_label"
+    
+}
+  

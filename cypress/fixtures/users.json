@@ -1,0 +1,9 @@
+{
+    "Standard": "standard_user",
+    "Problem": "problem_user",
+    "Performance": "performance_glitch_user",
+    "WrongUser": "wrong_user",
+    "Locked": "locked_out_user",
+    "WrongPass": "standard_user",
+    "AutomationUser": "test@automation.qa"
+}
